@@ -8,38 +8,38 @@ How to Play
 - Each successful level adds one new color to the sequence.
 - If you click the wrong button, the game ends and shows your score.
 - <br><br>
-Features
-Dynamic level generation
-Clean and colorful UI
-Flash and click animation effects
-Real-time user input validation
-Reset and restart system
+Features<br>
+Dynamic level generation<br>
+Clean and colorful UI<br>
+Flash and click animation effects<br>
+Real-time user input validation<br>
+Reset and restart system<br>
 <br><br>
 Tech Stack<br><br>
-Technology                  Role
-HTML                        Structure
-CSS                          Styling and layout
-JavaScript                    Game logic and interactivity
+Technology                  Role<br>
+HTML                        Structure<br>
+CSS                          Styling and layout<br>
+JavaScript                    Game logic and interactivity<br>
 
 Project Structure<br><br>
 📁 Simon-Says-Game<br><br>
-├── index.html       # Main HTML page
-├── style.css        # Styling for game layout and effects
-└── script.js        # Game logic and input handling
+├── index.html       # Main HTML page<br>
+├── style.css        # Styling for game layout and effects<br>
+└── script.js        # Game logic and input handling<br>
 
 <br><br>
 Screenshots<br><br>
 Add a screenshot from your hosted repository or local demo.
-<br><br>
+<br>
 Concepts Used<br><br>
 DOM Manipulation<br><br>
 Arrays and Loops<br><br>
 Event Listeners<br><br>
-CSS Transitions & Animations<br><br>
+CSS Transitions & Animations<br>
 Conditional Logic<br><br>
 <br><br>
-Future Enhancements<br><br>
-Add sound effects for each button<br><br>
+Future Enhancements<br>
+Add sound effects for each button<br>
 Save high score in localStorage<br>
 Add timer or speed levels<br>
 Show animation for each level transition<br>
@@ -49,5 +49,6 @@ Mobile responsive layout<br>
 Author
 Sachin Kumar Ojha
 Student, Developer & Learner
-License
+<br><br>
+License<br>
 This project is open-source and free to use under the MIT License.
