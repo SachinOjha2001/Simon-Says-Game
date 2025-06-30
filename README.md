@@ -1,4 +1,4 @@
-Simon Says Game
+Simon Says Game<br>
 A simple, interactive memory game built using HTML, CSS, and JavaScript. The goal of the game is to follow the pattern shown by the system and repeat it correctly. Every level adds a new color to the sequence — can you keep up?
 <br><br>
 How to Play
@@ -109,4 +109,4 @@ Feel free to contribute or give suggestions to improve this project!
 This project is open-source and free to use.
 
 ---
-<br<br>For More Info Read WIKI PAGE OF THIS PROJECT
+<br>For More Info Read WIKI PAGE OF THIS PROJECT
