@@ -15,35 +15,35 @@ Flash and click animation effects
 Real-time user input validation
 Reset and restart system
 <br><br>
-Tech Stack
+Tech Stack<br><br>
 Technology                  Role
 HTML                        Structure
 CSS                          Styling and layout
 JavaScript                    Game logic and interactivity
 
-Project Structure
-📁 Simon-Says-Game
+Project Structure<br><br>
+📁 Simon-Says-Game<br><br>
 ├── index.html       # Main HTML page
 ├── style.css        # Styling for game layout and effects
 └── script.js        # Game logic and input handling
 
 <br><br>
-Screenshots
+Screenshots<br><br>
 Add a screenshot from your hosted repository or local demo.
 <br><br>
-Concepts Used
-DOM Manipulation
-Arrays and Loops
-Event Listeners
-CSS Transitions & Animations
-Conditional Logic
+Concepts Used<br><br>
+DOM Manipulation<br><br>
+Arrays and Loops<br><br>
+Event Listeners<br><br>
+CSS Transitions & Animations<br><br>
+Conditional Logic<br><br>
 <br><br>
-Future Enhancements
-Add sound effects for each button
-Save high score in localStorage
-Add timer or speed levels
-Show animation for each level transition
-Mobile responsive layout
+Future Enhancements<br><br>
+Add sound effects for each button<br><br>
+Save high score in localStorage<br>
+Add timer or speed levels<br>
+Show animation for each level transition<br>
+Mobile responsive layout<br>
 
 <br><br>
 Author
